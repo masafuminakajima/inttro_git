@@ -2,3 +2,4 @@ first.txtの中身
 ・git add
 /git commit
 あああ
+git status
