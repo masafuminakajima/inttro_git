@@ -3,3 +3,4 @@ first.txtの中身
 /git commit
 あああ
 git status
+uuu
